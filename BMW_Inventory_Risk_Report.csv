@@ -1,0 +1,4 @@
+Year,Forecasted_Sales,Planned_Inventory,Inventory_Gap,Lower_CI,Upper_CI,Inventory_Risk_Assessment
+2025,17527854,17200000,327854,16158912.0,18896796.0,Shortage Risk (Demand > Inventory)
+2026,17527854,17200000,327854,15591877.0,19463831.0,Shortage Risk (Demand > Inventory)
+2027,17527854,17200000,327854,15156777.0,19898931.0,Shortage Risk (Demand > Inventory)

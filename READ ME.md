@@ -52,7 +52,7 @@ Here is a concise, analytical description you can place right before the image i
 
 ---
 
-## 🖼️ Visualization: Demand Forecast & Inventory Risk Description
+## Visualization: Demand Forecast & Inventory Risk Description
 The plot below illustrates the historical sales, the flat forecast, the planned inventory, and the high uncertainty band.
 
 * **Historical Data (Blue Line):** Shows the global annual BMW sales volume from 2010 to 2024, highlighting the overall **volatility** but relative stationarity (mean remains stable).
